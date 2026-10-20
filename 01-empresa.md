@@ -64,4 +64,4 @@ Web: https://informaticosvalencia.com/
 
 Es una empresa de Valencia fundada en 2006 que ofrece mantenimiento y servicios informáticos a pymes y empresas de todo tipo, con cobertura en toda España y Portugal. Sus servicios principales son la gestión de servidores, la virtualización, la nube privada y la instalación de redes y Wi-Fi. Cuenta con un equipo de entre 40 y 50 profesionales.
 
-Web: ENLACE_WEB_YMANT
+Web: http://www.ymant.com
