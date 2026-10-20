@@ -6,6 +6,7 @@
 LinkShell, Alcoy, Alicante 🏓
 
 
+
 ## Actividad y sector:
 
 Informática, ciberseguridad y diseño web
@@ -25,12 +26,12 @@ Autónomos, comercios, asesorías
 
 ## Tamaño (Plantilla o número de trabajadores): 
 
-27 trabajadores en 5 departamentos. Como por ejemplo: 
-Dirección y administración: 3
-Comercial: 4 
-Soporte y sistemas: 8
-Ciberseguridad: 6
-Diseño web 6
+**27 trabajadores en 5 departamentos.** ***Como por ejemplo:*** 
+- **Dirección y administración:** 3
+- **Comercial:** 4 
+- **Soporte y sistemas:** 8
+- **Ciberseguridad:** 6
+- **Diseño web:** 6
 
 
 ## Volumen de negocio anual estimado y justificado: 
